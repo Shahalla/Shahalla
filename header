@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title>AI PDF</title></head>
+<body>
+<h1>Buy the AI Checklist PDF</h1>
+<p>Secure checkout · $39</p>
+<button onclick="alert('Stripe/Link here')">Buy PDF - $39</button>
+</body>
+</html>
