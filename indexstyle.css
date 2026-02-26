@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Power PDF</title>
+  <style>
+    body{font-family:-apple-system,BlinkMacSystem,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;margin:0;padding:2rem;background:#fafafa;}
+    .box{background:#fff;max-width:640px;margin:auto;padding:2rem;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.1);}
+    h1{border-bottom:1px solid #dee2e6;padding-bottom:1rem;}
+    .btn{background:#009688;color:#fff;padding:1rem;border:0;border-radius:4px;font-size:1rem;cursor:pointer;display:inline-block;}
+    .btn:hover{background:#087f68;}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Buy the AI Checklist PDF that launched 34 SaaS projects</h1>
+    <p>Secure checkout. USD&nbsp;$39. You receive a download immediately.</p>
+    <button class="btn">Buy PDF for $39</button>
+  </div>
+</body>
+</html>
